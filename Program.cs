@@ -37,7 +37,6 @@ namespace pract6_1zadanie__5_
                 }
                 WriteLine($"\n\nПроизведение чисел в файле равно: {k}");
                 f.Close();
-                ReadKey();
             }
             catch 
             {
