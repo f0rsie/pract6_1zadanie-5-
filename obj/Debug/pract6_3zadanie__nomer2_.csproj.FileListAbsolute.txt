@@ -1,7 +1,0 @@
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\bin\Debug\pract6_3zadanie__nomer2_.exe.config
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\bin\Debug\pract6_3zadanie__nomer2_.exe
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\bin\Debug\pract6_3zadanie__nomer2_.pdb
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\obj\Debug\pract6_3zadanie__nomer2_.csprojAssemblyReference.cache
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\obj\Debug\pract6_3zadanie__nomer2_.csproj.CoreCompileInputs.cache
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\obj\Debug\pract6_3zadanie__nomer2_.exe
-C:\Users\fff\Desktop\Projects\pract6_3zadanie__nomer2_\obj\Debug\pract6_3zadanie__nomer2_.pdb
